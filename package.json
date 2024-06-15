@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://mkshitija.github.io/JavascriptTempPort",
+  "homepage": "https://mkshitija.github.io/JavascriptTmpPort",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://mkshitija.github.io/JavascriptTempPort'",
+    "build-gh": "parcel build --public-url 'https://mkshitija.github.io/JavascriptTmpPort'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
